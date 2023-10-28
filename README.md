@@ -3,12 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" padding="10%" >
 
-# [INGENIOUS] - Computer Science and Engineering
+GMAIL - INGENIOUSCSE@gmail.com
 
-# [GMAIL] - INGENIOUSCSE@gmail.com
-
-# [About]
-
+# About
 **We're passionate about all things computer science, Enthusiast Tech, and sharing knowledge.**
 
 <h3 align="left">### Join Our Community</h3>

@@ -5,7 +5,8 @@
 
 # About
 **We're passionate about all things computer science, Enthusiast Tech, and sharing knowledge.**
-
+**Unleash Your Imagination, Explore Cutting-Edge Tech, and Ignite Your Curiosity! Join Our Ingenious Community Today.**
+**Our team embraces the vision of your organization’s leaders, so we can implement modern, powerful and realistic solutions that will let you achieve your short-, medium-, and long-term goals.**
 <h3 align="left">### Join Our Community</h3>
 
 - [Getting Started](#getting-started)

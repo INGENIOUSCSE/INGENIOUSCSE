@@ -1,4 +1,4 @@
-<h1 align="center"><a href=""><img align="center" src="[file:///D:/Movies/output-onlinepngtools__1_-removebg-preview.svg](https://drive.google.com/drive/my-drive)" alt="@INGINIOUSCSE" height="30" width="40" /></a>
+<h1 align="center"><a href=""><img align="center" src="" alt="@INGINIOUSCSE" height="30" width="40" /></a>
 </p></h1>
 <h3 align="center">  -----Innovation is taking two things that already exist and putting them together in a new way.---------    </h3>
 

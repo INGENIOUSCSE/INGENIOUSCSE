@@ -1,4 +1,5 @@
-<h1 align="center">INGENIOUS </h1>
+<h1 align="center"><a href=""><img align="center" src="file:///D:/Movies/output-onlinepngtools__1_-removebg-preview.svg" alt="@INGINIOUSCSE" height="30" width="40" /></a>
+</p></h1>
 <h3 align="center">  -----Innovation is taking two things that already exist and putting them together in a new way.---------    </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" padding="10%" >
